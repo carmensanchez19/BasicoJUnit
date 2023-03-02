@@ -16,7 +16,7 @@ public class DivisionTest {
 	public void testDivision() {
 		double resultado = Division.division(1,2);
 		
-		assertTrue(resultado==0.5);
+		assertTrue(resultado==1.7);
 		
 	}
 	
